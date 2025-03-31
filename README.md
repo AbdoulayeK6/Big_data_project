@@ -38,7 +38,7 @@ Defining the reducer script (reduce.py)
 Running the Hadoop Streaming job on shakespeare.txt
 Visualizing results with Spark
 
-#Performance Analysis
+# Performance Analysis
 The main goal of this project is to evaluate the performance differences between Apache Spark and Hadoop on a classic big data task: word count. We use the shakespeare.txt file, a large text containing the complete works of Shakespeare, to measure the speed and efficiency of both technologies.
 
 With Hadoop, we used a Hadoop Streaming job with a map.py script to map words and a reduce.py script to aggregate and count them. Running on a cluster allows parallel processing but involves costly I/O operations.
