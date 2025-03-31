@@ -47,5 +47,5 @@ With Apache Spark, we leveraged its in-memory processing engine to accelerate th
 
 This comparison highlights Spark's advantages in terms of speed and efficiency over Hadoop, especially for interactive and iterative processing of massive data volumes.
 
-#Author
+# Author
 Ismael Koulibaly
